@@ -1,0 +1,14 @@
+__pycache__
+saved/
+ring.py
+*.out
+model_save
+*.tar
+*.pth
+save_picture
+ROP/
+ROP_pro\
+json_src
+.vscode
+experiments
+tmp.py
