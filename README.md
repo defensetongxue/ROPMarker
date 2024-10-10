@@ -1,0 +1,1 @@
+This is a temporary repository for storing all the code related to ROP_Marker, primarily to assist with the review process of the paper. First, you can look at the ROP_diagnose directory, which mainly explains the function and purpose of each file.
